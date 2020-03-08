@@ -1,0 +1,10 @@
+Package: com.paigu.hjtv
+Name: 韩剧tvCrack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 韩剧tv启用隐藏会员、去广告
+Maintainer: 糖醋丶炒排骨
+Author: 糖醋丶炒排骨
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 204

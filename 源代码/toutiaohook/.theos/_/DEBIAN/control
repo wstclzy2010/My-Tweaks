@@ -1,0 +1,10 @@
+Package: com.paigu.toutiao
+Name: 今日头条Prohook
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 去掉流量提醒、置顶
+Maintainer: 糖醋丶炒排骨
+Author: 糖醋丶炒排骨
+Section: Tweaks
+Version: 1.0.2-1+debug
+Installed-Size: 200

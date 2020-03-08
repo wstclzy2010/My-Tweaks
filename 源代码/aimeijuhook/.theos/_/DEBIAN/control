@@ -1,0 +1,10 @@
+Package: com.paigu.amj
+Name: AiMeijuhook
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: 爱美剧去广告
+Maintainer: 糖醋丶炒排骨
+Author: 糖醋丶炒排骨
+Section: Tweaks
+Version: 0.0.2-1+debug
+Installed-Size: 208

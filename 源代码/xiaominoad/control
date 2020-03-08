@@ -1,0 +1,9 @@
+Package: com.paigu.xm
+Name: XiaoMiNoAd
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: 小蜜影视去广告
+Maintainer: 糖醋丶炒排骨
+Author: 糖醋丶炒排骨
+Section: Tweaks
